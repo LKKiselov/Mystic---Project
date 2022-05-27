@@ -1,0 +1,21 @@
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: grid;
+  font-size: 120%;
+  font-family: "Tiro Devanagari Sanskrit", serif;
+  letter-spacing: 1px;
+  color: rgb(66, 35, 124);
+}
+#container {
+  margin: auto;
+  text-align: center;
+  padding: 5px;
+}
+
+#magic-ball {
+  max-width: 100%;
+}
